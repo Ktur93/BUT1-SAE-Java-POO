@@ -1,4 +1,4 @@
-# SAÉ 1.01 — 2048 en Java (POO + tests JUnit)
+# SAÉ — 2048 en Java (POO + tests JUnit)
 
 Projet réalisé en **BUT1 Informatique (IUT de Montreuil)** dans le cadre de la **SAÉ 1.01**.  
 Objectif : développer le jeu **2048** en **Java** en appliquant la **programmation orientée objet** et une démarche de **tests (JUnit)**, avec une logique de jeu fiable (déplacements, fusions, conditions de fin).
