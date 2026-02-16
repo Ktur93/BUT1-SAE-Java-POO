@@ -23,7 +23,6 @@ Objectif : développer le jeu **2048** en **Java** en appliquant la **programmat
 - **JUnit** (tests unitaires)
 
 ## Lancer le projet
-### Option 1 — IDE (recommandé)
-1. Ouvrir le projet dans IntelliJ / Eclipse
+1. Télécharger et ouvrir le projet dans IntelliJ / Eclipse
 2. Lancer la classe `Main`
 
